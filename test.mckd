@@ -1,0 +1,8 @@
+#Probe Tutorial
+
+## Step 1
+
+Um den Agenten zu programieren, müssen Programzeilen geschrieben werden
+und diese ausgeführt werden über die grüne Play Taste. 
+Ihr könnt euren Agenten mit agent.teleportToPlayer() zu euch teleportieren.
+Versucht es einmal aus...
